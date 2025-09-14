@@ -12,6 +12,7 @@ The goal of the project is to leverage SQL skills to perform real-world business
 <img width="1920" height="1080" alt="olister" src="https://github.com/user-attachments/assets/d0c606f3-1e89-4e24-9973-5e9955724ae0" />
 
 The following tables are part of the Olist dataset:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 * **olist\_customers\_dataset**: Contains customer details.
 * **olist\_orders\_dataset**: Contains order details including order amount and customer information.
